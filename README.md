@@ -1,2 +1,2 @@
-# Pizza_Sales_Analysis_Sql_Excel-
-xcel
+Project Description:
+The Pizza Sales Analysis project involved using SQL and Excel to analyze a dataset of pizza sales data. Through rigorous data cleaning, preprocessing, and in-depth exploratory data analysis, I delved into the sales patterns, customer preferences, and regional trends. Leveraging SQL queries, I extracted valuable insights from the dataset and imported the results into Excel for comprehensive visualization.
